@@ -1,0 +1,15 @@
+# Environment and secret files
+.env
+
+# Virtual environment
+venv/
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+
+# System files
+.DS_Store
+
+# Preferences and logs
+*.log
