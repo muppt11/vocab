@@ -8,3 +8,4 @@ secure-smtplib==0.1.1
 tqdm==4.67.1
 tzlocal==5.3.1
 requests==2.32.3
+beautifulsoup4==4.12.3
